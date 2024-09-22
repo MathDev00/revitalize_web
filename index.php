@@ -57,7 +57,7 @@ background: #c9e5e1;
           <!-- Email input -->
           <div data-mdb-input-init class="form-outline mb-4">
             <input name="username" id="form1Example13" class="form-control form-control-lg" />
-            <label class="form-label" for="form1Example13">Usuário</label>
+            <label class="form-label" for="form1Example13">Email</label>
           </div>
 
           <!-- Password input -->
@@ -66,7 +66,7 @@ background: #c9e5e1;
             <label class="form-label" for="form1Example23">Senha</label>
           </div>
 
-          <input type="submit" value="Entrar" class="btn btn-dark">
+          <input type="submit" value="Entrar" class="btn btn-outline-primary">
         </form>
 
 
